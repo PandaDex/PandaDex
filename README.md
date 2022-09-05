@@ -35,7 +35,3 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 <a href="http://www.github.com/PandaDex"><img src="https://github-readme-streak-stats.herokuapp.com/?user=PandaDex&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
 <a href="https://github.com/PandaDex" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PandaDex&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
-
-<b>Top Repositories</b>
-
-<div width="100%" align="center"><a href="https://github.com/PandaDex/EXS-ESSENTIALS" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=PandaDex&repo=EXS-ESSENTIALS&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/PandaDex/Canvas-Preview" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=PandaDex&repo=Canvas-Preview&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
