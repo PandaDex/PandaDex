@@ -3,7 +3,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 * 🌍  I'm based in Wien, Austria
 * ✉️  You can contact me at [kontakt.dexyt@gmail.com](mailto:kontakt.dexyt@gmail.com)
-* 🚀  I'm currently working on [Nex](https://nex.pandadex.ml/)
+* 🚀  I'm currently working on [Nex]()
 * 🧠  I'm learning React.js
 
 ### Skills
