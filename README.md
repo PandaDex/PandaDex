@@ -3,7 +3,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 * 🌍  I'm based in Wien, Austria
 * ✉️  You can contact me at [kacper.wochniak@chujcieto.pl](mailto:kacper.wochniak@chujcieto.pl)
-* 🚀  I'm currently working on Nex
+* 🚀  I'm currently working on Kype
 * 🧠  I'm learning Rust
 
 ### Skills
