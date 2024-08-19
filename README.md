@@ -2,7 +2,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 ===========================================================================================================================
 
 * 🌍  I'm based in Wien, Austria
-* ✉️  You can contact me at [kacper.wochniak@kypebot.xyz](mailto:kacper.wochniak@kypebot.xyz)
+* ✉️  You can contact me at [kacper.wochniak@kypebot.ovh](mailto:kacper.wochniak@kypebot.ovh)
 * 🚀  I'm currently working on Kype
 * 🧠  I'm learning Rust
 
