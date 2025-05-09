@@ -38,8 +38,8 @@
     <a href="https://tanstack.com/" target="_blank" rel="noreferrer">
         <img src="https://svgl.app/library/tanstack.svg" title="TanStack" alt="TanStack" width="32" height="32"/>
     </a>
-        <a href="https://tanstack.com/" target="_blank" rel="noreferrer">
-        <img src="https://svgl.app/library/tailwindcss.svg" title="TanStack" alt="TanStack" width="32" height="32"/>
+        <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
+        <img src="https://svgl.app/library/tailwindcss.svg" title="Tailwind CSS" alt="Tailwind CSS" width="32" height="32"/>
     </a>
     <a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer">
         <img src="https://svgl.app/library/java.svg" title="Java" alt="Java" width="32" height="32"/>
