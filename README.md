@@ -2,7 +2,7 @@
 
 - 🌍 I'm based in Wien, Austria
 - ✉️ You can contact me at [kacper.wochniak@kypebot.ovh](mailto:kacper.wochniak@kypebot.ovh)
-- 🚀 I'm currently working on Kype - Open Source discord bot with web dashbaord.
+- 🚀 I'm currently working on [Eyes Of The ElderWood](https://store.steampowered.com/app/3963050/Eyes_Of_The_ElderWood/)
 - 🧠 I'm learning C++
 
 ### Skills
