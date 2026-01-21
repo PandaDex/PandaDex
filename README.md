@@ -15,7 +15,7 @@
 <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://svgl.app/library/nodejs.svg" title="node.js" alt="node.js" width="32" height="32" /></a>
 <a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://svgl.app/library/expressjs.svg" title="express.js" alt="express.js"width="32" height="32"/></a>
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://svgl.app/library/react_dark.svg" title="React" alt="React" width="32" height="32"/></a>
-<a href="https://vitejs.dev/" target="_blank" rel="noreferrer"><img src="https://svgl.app/library/vitejs.svg" title="Vite.js" alt="Vite.js" width="32" height="32"/></a>
+<a href="https://vitejs.dev/" target="_blank" rel="noreferrer"><img src="https://vite.dev/logo-without-border.svg" title="Vite.js" alt="Vite.js" width="32" height="32"/></a>
 <a href="https://nuxt.com/" target="_blank" rel="noreferrer"><img src="https://svgl.app/library/nuxt.svg" title="Nuxt.js" alt="Nuxt.js" width="32" height="32"/></a>
 <a href="https://tanstack.com/" target="_blank" rel="noreferrer"><img src="https://svgl.app/library/tanstack.svg" title="TanStack" alt="TanStack" width="32" height="32"/></a>
 <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://svgl.app/library/tailwindcss.svg" title="Tailwind CSS" alt="Tailwind CSS" width="32" height="32"/></a>
