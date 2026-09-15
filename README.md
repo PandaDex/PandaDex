@@ -1,7 +1,7 @@
 # Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Kacper
 
 - 🌍 I'm based in Wien, Austria
-- ✉️ You can contact me at [kacper.wochniak@kypebot.ovh](mailto:kacper.wochniak@kypebot.ovh)
+- ✉️ You can contact me at [kacper.wochniak@kype.dev](mailto:kacper.wochniak@kype.dev)
 - 🚀 I'm currently working on [Eyes Of The ElderWood](https://store.steampowered.com/app/3963050/Eyes_Of_The_ElderWood/)
 - 🧠 I'm learning C++
 
